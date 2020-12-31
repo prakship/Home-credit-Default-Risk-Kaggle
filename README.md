@@ -1,5 +1,5 @@
 # Home-credit-Default-Risk-Kaggle
-This is a Kaggle problem which I took up so that I learn to handle 'Big Data' which is basically large amount of data. Also I learned how to join different but related data files while deriving new domain specific features.
+This is a Kaggle problem where we will be predicting whether or not a client will repay their loan using Home Credit’s historical loan application data. I took up this project so that I learn to handle 'Big Data' which is basically large amount of data. Also I learned how to join different but related data files while deriving new domain specific features.
 
 ## Link to Kaggle problem : https://www.kaggle.com/c/home-credit-default-risk/overview
 
